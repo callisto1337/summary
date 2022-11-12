@@ -1,10 +1,18 @@
 # Что учим дальше
 
-## SOLID
-- Single Responsibility Principle
-
-
+## ООП
+- ~~Полиморфизм~~
+- ~~Наследование~~
+- ~~Инкапсуляция~~
+- Абстракция
 
 ---
 
-## ООП
+## SOLID
+- Single responsibility principle
+- Open-closed principle
+- Liskov substitution principle
+- Interface segregation principle
+- Dependency inversion principle
+
+## Паттерны
